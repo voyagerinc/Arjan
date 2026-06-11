@@ -1,0 +1,57 @@
+{
+  "mrn": {
+    "total_records": 2558,
+    "total_value": 238068024.79439998,
+    "by_category": {
+      "Packing Material": 1128,
+      "Consumable": 958,
+      "Semi Finished Good": 344,
+      "Raw Material": 59,
+      "Fixed Asset": 46,
+      "Finished Good": 12,
+      "Non-Stock Item": 6,
+      "Services": 4
+    },
+    "by_party": {
+      "Anand Packing": 316,
+      "AADHYA CREATION": 180,
+      "BEWISE PACKAGING PVT.LTD": 151,
+      "Gobind Global Mart (P) Ltd.": 143,
+      "JYOTI ENTERPRISES (POLY)": 106,
+      "H.M. Traders": 77,
+      "RISING STAR ASSOCIATES PRIVATE LIMITED": 67,
+      "PRINT N PACK": 67,
+      "Nandwani Traders": 66,
+      "Arun Enterprises": 53
+    }
+  },
+  "po_pi": {
+    "total_records": 2833,
+    "total_value": 302788281.84999996,
+    "by_category": {
+      "Packing Material": 1385,
+      "Consumable": 930,
+      "Semi Finished Good": 239,
+      "Raw Material": 153,
+      "Services": 89,
+      "Fixed Asset": 24,
+      "Finished Good": 12,
+      "Non-Stock Item": 1
+    }
+  },
+  "pending": {
+    "total_records": 1642,
+    "total_pending_value": 219219680.90019998,
+    "overdue_count": 414,
+    "by_category": {
+      "Packing Material": 937,
+      "Consumable": 343,
+      "Semi Finished Good": 196,
+      "Raw Material": 153,
+      "Finished Good": 7,
+      "Services": 3,
+      "Non-Stock Item": 2
+    }
+  },
+  "timestamp": "2026-06-11 07:13:15"
+}
